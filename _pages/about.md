@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B416-Knowledge Computing and Reasoning Lab (KRaCR)</p>
+    <p>B416-KRaCR</p>
     <p>R &amp; D Block, IIIT Delhi</p>
-    <p>Okhla Industrial Estate Phase III, New Delhi, 110020</p>
+    <p>Okhla Phase III, New Delhi, 110020</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
