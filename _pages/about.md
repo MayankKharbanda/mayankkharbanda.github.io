@@ -20,5 +20,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am primarily interested in fields under <a href="https://en.wikipedia.org/wiki/Discrete_mathematics">Discrete Mathematics</a>. 
-Currently working in the area of multi-modal knowledge graphs under
+I am currently working in the area of multi-modal knowledge graphs under
 the guidance of <a href="https://raghavam.github.io/">Dr. V. Raghava Mutharaju</a> and <a href="https://midas.iiitd.ac.in/">Dr. Rajiv Ratn Shah</a>.
