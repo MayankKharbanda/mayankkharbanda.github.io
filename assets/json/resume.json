@@ -17,6 +17,26 @@
     "profiles": []
   },
   "work": [
+	      {
+      "institution": "Vrije Universiteit, Amsterdam",
+      "url": "https://vu.nl/en",
+      "area": "Knowledge Graphs",
+      "studyType": "Research Fellow",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    	},
+	      {
+      "institution": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
+      "url": "https://iiitd.ac.in/",
+      "area": "Knowledge Graphs",
+      "studyType": "PhD",
+      "startDate": "2020-08-03",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    	},
 		{
 	      "name": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
 	      "position": "Research Associate",
@@ -37,16 +57,6 @@
 	],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
-      "url": "https://iiitd.ac.in/",
-      "area": "Knowledge Graphs",
-      "studyType": "PhD",
-      "startDate": "2020-08-03",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
     {
       "institution": "University of Delhi, Delhi, India",
       "url": "https://www.du.ac.in/",
