@@ -20,22 +20,20 @@
 	      {
       "institution": "Vrije Universiteit, Amsterdam",
       "url": "https://vu.nl/en",
-      "area": "Knowledge Graphs",
-      "studyType": "Research Fellow",
+      "position": "Research Fellow",
       "startDate": "2024-09-01",
       "endDate": "",
-      "score": "",
-      "courses": []
+	"summary": "Multi-Hop Logical Query Answering on Knowledge Graphs",
+	"highlights": []
     	},
 	      {
       "institution": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
       "url": "https://iiitd.ac.in/",
-      "area": "Knowledge Graphs",
-      "studyType": "PhD",
+      "position": "PhD",
       "startDate": "2020-08-03",
       "endDate": "",
-      "score": "",
-      "courses": []
+		"summary": "Multi-Hop Logical Query Answering on Knowledge Graphs",
+	    "highlights": []
     	},
 		{
 	      "name": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
