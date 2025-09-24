@@ -18,7 +18,7 @@
   },
   "work": [
 	      {
-      "institution": "Vrije Universiteit, Amsterdam",
+      "name": "Vrije Universiteit, Amsterdam",
       "url": "https://vu.nl/en",
       "position": "Research Fellow",
       "startDate": "2024-09-01",
@@ -27,7 +27,7 @@
 	"highlights": []
     	},
 	      {
-      "institution": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
+      "name": "Indraprastha Institute of Information Technology Delhi, New Delhi, India",
       "url": "https://iiitd.ac.in/",
       "position": "PhD",
       "startDate": "2020-08-03",
